@@ -7,7 +7,7 @@
 
 - Web Applications & Drone-Based Projects **Frontend interfaces, control dashboards, visualization tools**
 
-- 👨‍💻 All of my projects are available at [https://techwithshivam.vercel.app/](https://techwithshivam.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://techwithshivam.in/](https://techwithshivam.in/)
 
 - 💬 Ask me about **React, JavaScript, Frontend Development, Drones, Blender**
 
