@@ -31,8 +31,3 @@
 
 <br><br>
 
-<h3 align="center">My GitHub Activity Game</h3>
-
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
